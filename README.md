@@ -1,1 +1,1 @@
-# sse
+# Sample Size Estimation, sse
